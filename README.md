@@ -10,7 +10,7 @@ It leverages **machine learning** to detect various types of network attacks, he
 - Performance metrics: Accuracy, Precision, Recall, F1-score
 
 ## Dataset
-- [CIC-IDS-2017]([https://www.unb.ca/cic/datasets/ids-2017.html](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset))
+- [CIC-IDS-2017](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)
 
 ## Usage
 1. Clone the repository  
