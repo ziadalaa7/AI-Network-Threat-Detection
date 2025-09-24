@@ -24,5 +24,5 @@ The system **continuously learns** from new threats, making it more adaptive and
 
 ---
 
-## 📘 Demo / Notebook
-🔗 [Explore the Jupyter Notebook](#)  
+## 📘Notebook
+https://github.com/ziadalaa7/AI-Network-Threat-Detection/blob/19419496b980bc1023c57935072d058f9c5e6741/AI-Powered%20Network%20Threat%20Detection%20.ipynb 
