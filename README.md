@@ -1,18 +1,28 @@
-# AI Network Threat Detection
+# 🔒 AI-Powered Network Threat Detection
 
-This project is a **Network Intrusion Detection System (NIDS)** using the **CIC-IDS-2017 dataset**.  
-It leverages **machine learning** to detect various types of network attacks, helping to secure networks efficiently.
+Cyberattacks are growing more sophisticated every day, and traditional security tools often struggle to keep up.  
+This project introduces an **AI-powered system** that monitors network traffic in real time and automatically identifies suspicious activities such as:
 
-## Features
-- Detects multiple types of network intrusions
-- Preprocessing and feature engineering for CIC-IDS-2017
-- Machine learning-based classification models
-- Performance metrics: Accuracy, Precision, Recall, F1-score
+- Hacking attempts  
+- Data theft  
+- Denial-of-service (DoS) attacks  
 
-## Dataset
-- [CIC-IDS-2017](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)
+The system **continuously learns** from new threats, making it more adaptive and reliable than traditional methods.
 
-## Usage
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/ziadalaa7/AI-Network-Threat-Detection.git
+---
+
+## 🎯 Key Goals
+- Monitor network traffic in real time  
+- Detect threats early and send alerts  
+- Reduce the burden on IT security teams  
+- Scale to handle large organizations and networks  
+
+---
+
+## 📊 Dataset
+- [CIC-IDS-2017](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset)  
+
+---
+
+## 📘 Demo / Notebook
+🔗 [Explore the Jupyter Notebook](#)  
