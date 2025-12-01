@@ -77,7 +77,7 @@ The table below summarizes the performance of the machine learning models deploy
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Random Forest** | 99.8% | 0.99 | 0.99 | 0.99 | Fast |
 | **XGBoost** | 99.9% | 0.99 | 0.99 | 0.99 | Moderate |
-| **Decision Tree** | 98.5% | 0.98 | 0.98 | 0.98 | Very Fast |
+
 
 > *Note: Results indicate the models are highly effective at distinguishing between normal traffic and intrusions.*
 
@@ -113,16 +113,6 @@ The table below summarizes the performance of the machine learning models deploy
     Open `AI_Powered_Network_Threat_Detection.ipynb` in Jupyter Notebook or Google Colab to reproduce the training and evaluation steps.
 
 ---
-
-## 🔮 Future Work
-* **Deep Learning Integration:** Experimenting with LSTM or Autoencoders for sequential traffic analysis.
-* **Real-time Deployment:** Wrapping the model in a Flask/FastAPI app to process live packet captures.
-* **Explainability:** Using SHAP or LIME to visualize why a specific packet flow was flagged as a threat.
-
----
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/ziadalaa7/AI-Network-Threat-Detection/issues).
 
 ---
 
